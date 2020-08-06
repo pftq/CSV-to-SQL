@@ -1,5 +1,6 @@
 CSV to SQL
 by pftq
+https://www.pftq.com/pq/creations/list/CSV_to_SQL/
 February 14, 2013
 
   This is a quick application for loading all rows in a CSV (with header columns) into an existing SQL table.
